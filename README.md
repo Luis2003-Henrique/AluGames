@@ -10,7 +10,7 @@ Este é mais um projeto feito no Curso de Lógica de Programação da Alura, sen
 2 - Durante o processo de alternância, deveriam mostrar diferenças visuais. Quando botão estivesse para "Devolver", deveria ficar preto, deixando imagem do jogo escurecida. 
 No caso de estar para "Alugar", o botão ficaria Azul e o fundo da imagem em seu tom claro e natural.
 
-3 - Adicionar uma mensagem de confirmação no caso do usuário tentar devolver o jogo. Prosseguindo caso seja escolhido "ok" como resposta, ou cancelando se a respostar for "cancelar".
+3 - Adicionar uma mensagem de confirmação no caso do usuário tentar devolver o jogo. Prosseguindo caso seja escolhido "ok" como resposta, ou cancelando se a resposta for "cancelar".
 
 4 - Acrescentar um contador de jogos alugados, que é mostrado no console. A cada aluguel ou devolução o valor é alterado, indicando sempre o total de jogos que estão alugados.
 
